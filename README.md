@@ -1,3 +1,7 @@
+# FORKED for fixing Paypal http issue
+ref: https://stackoverflow.com/questions/67929562/paypal-checkout-sdk-breaks-in-ruby-3-0-1
+`paypalhttp_ruby` not support ruby 3.0.1 yet, so this fork repo is needed
+
 ## Paypal HttpClient
 
 PaypasHttp is a generic HTTP Client.
